@@ -1,4 +1,4 @@
-# Luna-lung-cancer-detect-model
+# Luna Lung Cancer Detect Model
 - reference : pythorch deep learning, by Eli Stevens·Luca Antiga·Thomas Viehmann
 
 ## Dataset from Luna challenge
