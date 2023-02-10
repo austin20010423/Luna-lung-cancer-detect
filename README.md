@@ -6,7 +6,7 @@
 - https://luna16.grand-challenge.org/
 - U-Net process image segmentation
 
-## ResNet
+## Model
 - 3D convolution and relu build CNN model 
 
 ## Visualization by matplotlib
